@@ -1,0 +1,4 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+1.aşama 7 sayısı root seçilir
+2.aşama 8,9 sayıları 7'nin sağına ağaç şeklinde yazılır
+3.aşama geri kalan sayılar soluna ağaç şeklinde yazılır ve onlar da kendi aralarında büyükler sağa küçükler sola doğru indirilir.
